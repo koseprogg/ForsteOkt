@@ -28,4 +28,6 @@ brew doctor```
       1. ```git commit -m "First commit"```
       2. Skal vi bruke https eller ssh for pushing?
          1. Må i så fall velge hva vi skriver tutorial for
-      3. 
+
+## Din første hjemmeside!
+Follow along på storskjerm
