@@ -1,0 +1,133 @@
+body, html {
+    margin: 0px 0px 0px 0px; 
+    padding: 0px 0px 0px 0px; 
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.content-title {
+    width: 100%;
+    text-align: center;
+    font-weight: lighter;
+    padding: 40px 0px 40px 0px;
+}
+
+.hero-image {
+    background-image: url("./images/paaskefiske.png");
+    height: 50%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-title {
+    font-weight: lighter;
+    text-align: left;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+.koseprogg-text {
+    width: 303px;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 30%;
+}
+
+.hero-topbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.burger-icon {
+    position: absolute;
+    top: 20px;
+    right: 40px;
+}
+
+.burger-icon:hover {
+    cursor: pointer;
+}
+
+.v-icon {
+    position: absolute;
+    bottom: 5px;
+    right: 50%;
+}
+
+.v-icon:hover {
+    cursor: pointer;
+}
+
+
+.hero-logo {
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    position: relative;
+    margin-left: 120px;
+    top: 15px;
+}
+
+.hero-title-text {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 10px;
+}
+
+.hero-text {
+    right: -55%;
+    position: relative;
+    width: 450px;
+    margin-top: 40px;
+}
+
+#kose {
+    color: black;
+}
+
+
+#progg {
+    color: #8a8383;
+}
+
+.language-box {
+    text-align: center;
+}
+
+h1, h4, h5 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+p {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+h5, h4 {
+    padding: 0px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
+}
+
+.language-title {
+    font-weight: lighter;
+    text-align: center;
+}
+
+.language-text {
+    font-weight: normal;
+    text-align: center;
+}
