@@ -7,7 +7,7 @@ Hvordan komme i gang med sitt første repository på github:
 1. Lag bruker på github https://github.com/join?source=header-home
 2. Installasjon av git lokalt:
    1. Windows:
-      1. Følg denne guiden: https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/ 
+      1. Følg denne guiden: https://phoenixnap.com/kb/how-to-install-git-windows
    2. Mac
       1. I terminalen, kopier og lim ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew doctor```
