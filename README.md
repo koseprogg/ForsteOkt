@@ -31,3 +31,10 @@ brew doctor```
 
 ## Din første hjemmeside!
 Follow along på storskjerm
+
+## Nyttige kilder
+- https://css-tricks.com/where-do-you-learn-html-css-in-2020/
+- https://www.w3schools.com/css/
+- https://www.w3schools.com/html/
+- https://developer.mozilla.org/en-US/docs/Web/CSS
+- https://developer.mozilla.org/en-US/docs/Web/HTML
