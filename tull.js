@@ -20,7 +20,7 @@ setInterval(() => {
         h4Tags[i].style.color = getRandomHexcolor()
     }
 
-    const h1Tags = document.getElementsByTagName('h1');
+    const h1Tags = document.querySelectorAll('h1');
     for (let i = 0; i < h1Tags.length; i++) {
         h1Tags[i].style.color = getRandomHexcolor()
     }
