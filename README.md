@@ -12,8 +12,8 @@ Hvordan komme i gang med sitt første repository på github:
       1. I terminalen, kopier og lim ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew doctor```
       2. ```brew install git```
-   1. Linux
-      1. ```apt get-install git```
+   1. Linux(Ubuntu)
+      1. ```sudo apt install git```
 
 1. Lage sitt eget repository på github
    1. Naviger til https://github.com/new
