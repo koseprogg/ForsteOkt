@@ -1,4 +1,4 @@
-# ForsteOkt
+# Første Økt
 
 
 ## Installere git
@@ -23,16 +23,14 @@ brew doctor```
    5. I terminalen skriv:
       1. ```git init```
       2. ```git add -a```
-      3. ```git commit```
+      3. ```git commit -m "First commit"```
       4. ![](/images/gitlabRepo.png)
-      1. ```git commit -m "First commit"```
-      2. Skal vi bruke https eller ssh for pushing?
-         1. Må i så fall velge hva vi skriver tutorial for
 
 ## Din første hjemmeside!
 Follow along på storskjerm
 
 ## Nyttige kilder
+- Teksteditor på nett: https://jsfiddle.net/
 - https://css-tricks.com/where-do-you-learn-html-css-in-2020/
 - https://www.w3schools.com/css/
 - https://www.w3schools.com/html/
