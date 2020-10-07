@@ -1,5 +1,7 @@
 # Første Økt
 
+## Til info
+En mulig løsning på HTML og CSS for å lage den ferdige nettsiden(`images/ferdig_nettside.png`) ligger i filene `fasit.html` og `fasit.css`. Så langt vi kom i økten 6. oktober ligger i filene `index.html` og `styles.css`. 
 
 ## Installere git
 Hvordan komme i gang med sitt første repository på github:
